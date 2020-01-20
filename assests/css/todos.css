@@ -1,0 +1,10 @@
+.container{
+    width: 360px;
+    border: 2px solid gray;
+    margin: 0 auto;
+}
+
+.liclicked{
+    text-decoration: line-through;
+    color: gray;
+}
